@@ -1,0 +1,25 @@
+.parent{
+    
+border: 2px solid #ff901b;
+color:white;
+display:flex;
+font-weight: bold;
+}
+.origin{
+flex-basis: 100%;
+flex-grow: 1;
+padding:10px;
+}
+.draggable{
+background-color:  #ff321a;
+font-weight: normal;
+margin-bottom: 10px;
+margin-top: 10px;
+padding: 10px;
+}
+.droparea{
+background-color: #220070;
+flex-basis: 100%;
+flex-grow: 1;
+padding:10px;
+}
